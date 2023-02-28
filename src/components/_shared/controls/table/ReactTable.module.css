@@ -1,0 +1,27 @@
+.sortingPointer {
+    cursor: pointer;
+}
+
+.row {
+    cursor: pointer;
+}
+
+.headerRow {
+    border-top: 1px solid grey;
+}
+
+.headerCell {
+    padding: 12px !important;
+}
+
+.bodyCell {
+    padding: 12px !important;
+}
+
+.goToPage {
+    width: 100px;
+}
+
+.numbersearch {
+    width: 80px;
+}

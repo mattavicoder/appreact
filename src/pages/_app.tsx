@@ -7,6 +7,7 @@ import type { NextPage } from 'next'
 import { api } from "~/utils/api";
 
 import "~/styles/globals.css";
+import "flatpickr/dist/themes/airbnb.css";
 import GeneralLayout from "~/components/layouts/GeneralLayout";
 
 
